@@ -1,0 +1,2 @@
+rootProject.name = "Data Binding With Live Data Java"
+include ':app'
